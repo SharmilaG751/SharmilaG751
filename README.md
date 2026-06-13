@@ -55,7 +55,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SharmilaG751&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 <h2 align="center">Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmilaG751&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -78,10 +78,18 @@
 
 ---
 
-<h2 align="center">Connect</h2>
+---
+
+<h2 align="center">Connect with Me</h2>
 
 <p align="center">
-  <a href="https://github.com/SharmilaG751">GitHub</a>
+  <a href="https://github.com/SharmilaG751" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
 </p>
 
 ---
