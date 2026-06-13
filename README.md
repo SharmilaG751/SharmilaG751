@@ -23,7 +23,7 @@
 
 <tr>
   <td>
-    <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp" />
   </td>
 
   <td>
@@ -55,7 +55,7 @@
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SharmilaG751&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
@@ -63,7 +63,7 @@
 <h2 align="center">Top Languages</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharmilaG751&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -71,9 +71,9 @@
 <h2 align="center">Current Focus</h2>
 
 <p align="center">
-  ✔ Improving problem solving <br>
-  ✔ Building small projects <br>
-  ✔ Learning JavaScript deeply
+  Improving problem solving <br>
+  Building small projects <br>
+  Learning JavaScript deeply
 </p>
 
 ---
@@ -81,9 +81,10 @@
 <h2 align="center">Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/SharmilaG751">GitHub</a>
+  <a href="https://github.com/SharmilaG751">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  </a>
 </p>
-
 ---
 
 <h2 align="center">Quote</h2>
